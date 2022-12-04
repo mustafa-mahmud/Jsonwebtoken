@@ -21,4 +21,4 @@ _*Dependencies*_
 
 ### Project run `npm start`
 
-[Followed by Udemy](www.udemy.com)
+[Followed by Udemy](https://www.udemy.com/)
